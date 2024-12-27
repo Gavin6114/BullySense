@@ -7,7 +7,7 @@ Campus bullying poses a significant threat to students' mental and physical well
 
 # Dataset and weights
 
-The dataset used in this study is available for download via the following link: https://huggingface.co/datasets/Gavin6114/BullySense/tree/main. Due to the sensitive nature of the dataset, if the link becomes invalid or inaccessible, please contact the corresponding author to request access to the dataset.
+The dataset used in this study is available for download via the following link: https://huggingface.co/datasets/Gavin6114/BullySense/tree/main. Considering that the dataset contains sensitive information such as bullying involving minors, please contact the authors to obtain permission for use after review. Due to the sensitive nature of the dataset, if the link becomes invalid or inaccessible, please contact the corresponding author to request access to the dataset.
 
 The weights used in this study is available via the following link: https://huggingface.co/datasets/Gavin6114/BullySense/tree/main ，and  you also download llama-guard3 weight from https://github.com/meta-llama/llama-recipes
 
